@@ -1,0 +1,2 @@
+# finshots
+Basic finshots clone
